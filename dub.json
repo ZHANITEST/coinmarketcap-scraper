@@ -1,0 +1,9 @@
+{
+	"name": "coinmarketcap-scraper",
+	"authors": [
+		"ZHANITEST"
+	],
+	"description": "coinmarketcap.com",
+	"copyright": "Copyleft © 2017, ZHANITEST",
+	"license": "LGPL v2"
+}
